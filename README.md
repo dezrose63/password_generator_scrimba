@@ -1,3 +1,8 @@
+# Password Generator App 
+## Made as part of Scrimba's FrontEnd Developer Course
+
+<img width="535" height="386" alt="image" src="https://github.com/user-attachments/assets/36ea386b-98f4-4c95-949a-47e828070961" />
+
 # Getting Started
 Install the dependencies and run the project
 ```
